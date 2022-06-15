@@ -37,4 +37,4 @@ Recocmmendable run the application with `NODEMON APP`, so, you don't need re-run
 
 #### Additional Content
 
-If you want to contact me, here's my portfolio with my LinkedIn profile `https://david-acosta-portfolio.netlify.app/`. Thank you :)
+If you want to contact me, here's my portfolio with my LinkedIn profile `https://david-acosta-portfolio.netlify.app/`. Thank you :) 
